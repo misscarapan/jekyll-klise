@@ -31,6 +31,6 @@ jobs:
         aws-region: eu-west-1
 
     - name: Sync output to S3
-      run: |
-        aws s3 sync ./_site/ s3://ma.maquillajeasturias.com --delete
-        aws cloudfront create-invalidation --distribution-id E286M5YJNLMBG7 --paths "/*"
+      run: aws s3 sync ./_site/ s3://ma.maquillajeasturias.com --delete
+    - name: Invalidate Cloudfront Cache
+      run: aws cloudfront create-invalidation --distribution-id E286M5YJNLMBG7 --paths "/*"
