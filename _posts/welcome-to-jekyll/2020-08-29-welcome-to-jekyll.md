@@ -1,16 +1,20 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Carapan!"
 date:   2020-08-29 09:29:20 +0700
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hi,
 
-Jekyll requires blog post files to be named according to the following format:
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html
+https://jekyllrb.com/docs/step-by-step/01-setup/
+https://aws.amazon.com/es/blogs/aws-spanish/como-alojar-tu-sitio-web-estatico-en-amazon-s3-y-amazon-cloudfront/
+https://dev.to/aws-builders/deploy-static-website-on-s3-bucket-and-configure-cloudfront-distribution-12em
+https://docs.aws.amazon.com/es_es/AmazonS3/latest/userguide/website-hosting-custom-domain-walkthrough.html
 
-`YEAR-MONTH-DAY-title.MARKUP`
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Google Analytics
+https://michaelsoolee.com/google-analytics-jekyll/
 
 Jekyll also offers powerful support for code snippets:
 
