@@ -6,10 +6,12 @@ excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in
 comments: false
 ---
 
-She's a student from Asturias, Spain. This web is her first proyect.  The blog's goal is share her personal progress. 
+Welcome
+
+This is a blog where I want to share my growing up. Hope to enjoy it.
 
 This blog features:
-- 
+- Docs or tutorials I used.
 
 
 
