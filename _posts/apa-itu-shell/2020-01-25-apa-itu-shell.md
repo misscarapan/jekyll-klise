@@ -8,6 +8,7 @@ image: ""
 ---
 
 <a 
+
 Hi,
 
 
@@ -16,7 +17,9 @@ Hi,
  Now, I’m challenging myself with cloud because I was creating my own personal website for my make up business and I fall in love with that. I’m AWS Solutions Architect certified and more certifications are coming.
 
 Come with me on this road,
+
 Thanks for reading.
+
 C.
 
 
