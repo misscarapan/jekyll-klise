@@ -12,8 +12,8 @@ mode: dark # default theme "dark" | "light"
 author:
   name: C a r a p a n # author name
   bio: >- # tell to the world
-    	- 92 | Asturias | She/her | Millennial | Motomami | Freeride ski | Swim | Strength
-	    - Blog personal
+    	 92 / Asturias / She/her / Millennial / Motomami / Freeride ski / Swim / Strength
+	     Blog personal
     Meet me at <a href="https://github.com/misscarapan" target="_blank" rel="noopener">@github</a>.
   username: misscarapan # general username
   github: misscarapan # github username
