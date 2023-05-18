@@ -1,9 +1,9 @@
 # Site settings
-title: Klise Theme # site title
+title: Miss Carapan # site title
 description: >- # site description
-  She's writting things that she learned, meet her <a href="https://github.com/misscarapan" target="_blank" rel="noopener">@github</a>.
+  Escribir largos blogs no es mi meta, mejor apunto todo lo que estoy aprendiendo, lo que me está ayudando y demás cositas que vaya encontrando. También estoy en <a href="https://github.com/misscarapan" target="_blank" rel="noopener">@github</a>.
 lang: en-ES # default lang
-timezone: GMT+1 # set your timezone
+timezone: GMT+1 # set your timezone 
 image: assets/img/Avatar1.jpg # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/misscarapan/jekyll-klise # site repo [optional]
 mode: dark # default theme "dark" | "light"
@@ -22,7 +22,7 @@ author:
   avatar: /assets/img/Avatar1.jpg # change with your own avatar
 
 # URL settings
-url: "https://ma.maquillajeasturias.com" #
+url: "https://misscarapan.dev" #
 baseurl:
 permalink: /:title/
 google_analytics: G-R8B172MPZF # leave it blank if not wish
