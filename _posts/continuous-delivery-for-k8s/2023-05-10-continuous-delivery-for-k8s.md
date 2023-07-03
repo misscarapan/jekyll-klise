@@ -1,5 +1,5 @@
 ---
-title:  Continuous Delivery for Kubernetes. 
+title:  Continuous Delivery for Kubernetes. (WIP) 
 date: 2023-05-10 18:03:55 +07:00
 modified: 2023-05-10 18:03:55 +07:00
 tags: [Books]

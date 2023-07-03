@@ -2,18 +2,18 @@
 title:  Git & GitHub. 
 date: 2023-06-08 18:03:55 +07:00
 modified: 2023-06-08 18:03:55 +07:00
-tags: [Aprendizaje]
+tags: [Training]
 description: Mi proceso con GitHub.
 image: ""
 ---
 
-<a 
 
 ¡Hola!
 
 Una de las herramientas con las que tenía que empezar era Git, un sistema de control de versiones ampliamente utilizado, y con su plataforma de alojamiento de repositorios, GitHub. En este blog, compartiré mi experiencia personal al dar mis primeros pasos en Git y GitHub, explorando cómo estas herramientas me ayudaron con este blog  y mantener un historial de cambios ordenado. 
 
-Curso:
+Vídeo-cursos:
+https://www.youtube.com/watch?v=3GymExBkKjE&ab_channel=MoureDevbyBraisMoure
 https://www.pildorasinformaticas.es/course/curso-de-git-github/
 
 Git commands: 
@@ -33,7 +33,7 @@ Desde github.dev voy haciendo commits directamente y me familiarizo con el workf
 
 
 ¡Gracias por leer!
-C.
+ C.
 
 
 
