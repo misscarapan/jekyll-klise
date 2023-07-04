@@ -17,8 +17,8 @@ En este post quiero dejar todo los cursos que voy haciendo en la plataforma Kode
 
 
 
-¡Gracias por leer!
- C.
+<p>¡Gracias por leer!</p>
+<p>C.</p>
 
 
 
