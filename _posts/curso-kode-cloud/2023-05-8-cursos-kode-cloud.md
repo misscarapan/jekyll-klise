@@ -12,7 +12,7 @@ image: ""
 
 En este post quiero dejar todo los cursos que voy haciendo en la plataforma Kode Cloud. 
 
-<a href="https://kodekloud.com/courses/docker-for-the-absolute-beginner/" target="_blank" rel="nofollow"> </a>
+<a href="https://kodekloud.com/courses/docker-for-the-absolute-beginner/" target="_blank" rel="nofollow">Curso gratuito Docker</a>
 
 
 
