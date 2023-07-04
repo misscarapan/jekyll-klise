@@ -2,11 +2,13 @@
 layout: post
 title:  "The beginning of Carapan"
 date:   2023-04-29 09:29:20 +0700
-categories: tech
+categories: Personal
+tags: [Personal]
 ---
 ¡Hola!
 
-Aquí dejo los links que me ayudaron con las dudas que me iban surgiendo.
+Quiero compartir algunos enlaces que me fueron de gran ayuda durante el proceso de despliegue de mi sitio web. Espero que estos recursos también les resulten útiles si están trabajando en un proyecto similar. ¡Aquí van!
+
 
  Jekyll 
 https://jekyllrb.com/docs/step-by-step/01-setup/
