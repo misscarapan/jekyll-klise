@@ -11,7 +11,9 @@ image: ""
 
 ¡Hola!
 
-Este post es para guardar todos mis apuntes del libro de Mauricio Salatino "Continuous Delivery for Kubernetes". 
+Estoy leyendo y aprendiendo cantidad de cosas con este libro de Mauricio Salatino "Continuous Delivery for Kubernetes". <a href="https://www.manning.com/books/platform-engineering-on-kubernetes?utm_source=linkedin&utm_medium=organic&utm_campaign=book_salatino2_continuous_9_18_21" target="_blank" rel="nofollow">Os dejó el enlace para echarle un vistazo.</a>
+
+En este blog dejaré mis apuntes de las prácticas y técnicas clave que voy descubriendo en el libro y empezar en el contexto de Kubernetes.
 
 Parte 1. CLoud-Native continuous delivery.
 "Clod-Native is structuring teams, culture and technology to utlize automation and architectures to manage complexity and unlock velocity."

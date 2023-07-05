@@ -10,28 +10,29 @@ tags: [Personal]
 Quiero compartir algunos enlaces que me fueron de gran ayuda durante el proceso de despliegue de mi sitio web. Espero que estos recursos también les resulten útiles si están trabajando en un proyecto similar. ¡Aquí van!
 
 
- Jekyll 
-
+ Jekyll - esta al ser una web estática, la configuré con Jekyll como entorno de desarrollo. En este enlace encontré el paso a paso.
 <a href="https://jekyllrb.com/docs/step-by-step/01-setup/" target="_blank" rel="nofollow">Docs Jekyll</a>
 
 
-S3 + CloudFront
-
+S3 + CloudFront - 
+Para configurar y desplegar la web de forma escalable y segura usé AWS me ayudaron estos enlaces.
 <a href="https://aws.amazon.com/es/blogs/aws-spanish/como-alojar-tu-sitio-web-estatico-en-amazon-s3-y-amazon-cloudfront/" target="_blank" rel="nofollow">Documentación S3 y CloudFront</a>
 
 
 <a href="https://dev.to/aws-builders/deploy-static-website-on-s3-bucket-and-configure-cloudfront-distribution-12em" target="_blank" rel="nofollow">Blog ayuda web estática con S3 y CloudFront.</a>
 
 
-S3 + Hosting
+S3 + Hosting - Para el proceso de configuración de DNS, crear el alias y asociar el dominio personalizado con el bucket me ayudé de esta documentación.
 
 <a href="https://docs.aws.amazon.com/es_es/AmazonS3/latest/userguide/website-hosting-custom-domain-walkthrough.html" target="_blank" rel="nofollow">Documentación S3 custom domain</a>
 
-<a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html" target="_blank" rel="nofollow">Documentación Hosting</a>
+Me dió error jajaja (estaba claro) pero en esta guía tienes información sobre el enrutamiento y redireccionamiento de URLs, que fue lo que me ayudó a arreglar el problema.
+<a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html" target="_blank" rel="nofollow">Solución Error 404</a>
 
-Google Analytics
-
+Google Analytics -  para utilizar GA en Jekyll, no es obligatorio, pero ya puestos,en. comparación es bastante sencillo.
 <a href="https://michaelsoolee.com/google-analytics-jekyll/" target="_blank" rel="nofollow">Blog Google Analytics</a>
+
+Y esta es un poco mi experiencia, al final, seguir un poco la documentación, calma y cariño. 
 
 
 Gracias por leer,
