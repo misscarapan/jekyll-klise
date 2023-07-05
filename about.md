@@ -2,20 +2,33 @@
 title: Personal Carapan
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Hola, soy estudiante de Devops & SysOps. Este blog va acerca de mi camino hacia el mundo Cloud.
 comments: false
 ---
 
-Welcome
+¡Hola!
 
-This is a blog where I want to share my growing up. Hope to enjoy it.
+Muchas gracias por pasarte por aquí y dedicar un poco de tu tiempo a conocerme.
 
-This blog features:
-- Docs or tutorials I used.
+Te pongo un poco en contexto, me presento en el primer blog <a href="https://misscarapan.dev/who-is-carapan/" target="_blank" rel="nofollow">"Who is Carapan"</a>, pero aquí no te quiero marear con mi vida, mejor vamos a lo que hay en esta web. Aquí encontrarás cómo hice esta web, lo que  utilicé como guía y también lo que me ayudó a resolver los problemas que me iban surgiendo. 
+
+Ahora que el reto de crear la web ya lo conseguí. Mi visión de cada blog es compartir:
+- Cada tecnología que voy aprendiendo.
+- Apuntes de los libros que vaya leyendo.
+- Plataformas que me ayudan a estudiar.
 
 
 
-**may u needs ✨**
+
+
+
+
+**Si me necesitas, estoy aquí ✨**
 
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
+
+
+
+¡Gracias infinitas!
+C.
