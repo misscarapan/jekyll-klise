@@ -6,8 +6,11 @@ excerpt:
 comments: false
 ---
 
-Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
+
+Gracias a las personas increíbles que conocí, que me ayudan a seguir adelante, me conectan a ser mejor persona, me dan  consejos cuando estoy en cosas malas, me sacan de lo ordinario para crecer en lo personal y en lo profesional.
+
 
 <hr>
 
-Hopefully the knowledge that I got from them can be useful, and become a charity for them.
+Espero que el conocimiento que obtengo de todos pueda ser útil.
+

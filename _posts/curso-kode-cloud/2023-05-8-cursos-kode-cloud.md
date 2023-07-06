@@ -16,6 +16,7 @@ En este post quiero dejar todo los cursos que voy haciendo en la plataforma Kode
 
 
 ¡Gracias por leer!
+<hr>
 C.
 
 

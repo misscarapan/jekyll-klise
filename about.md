@@ -31,4 +31,5 @@ Ahora que el reto de crear la web ya lo conseguí. Mi visión de cada blog es co
 
 
 ¡Gracias infinitas!
+<hr>
 C.

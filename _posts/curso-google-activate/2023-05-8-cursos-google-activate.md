@@ -33,6 +33,7 @@ Curso de introducción al desarrollo web: HTML y CSS, tiene 2 partes de 40H cada
 
 
 ¡Gracias por leer!
+<hr>
  C.
 
 

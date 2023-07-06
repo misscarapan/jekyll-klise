@@ -26,6 +26,7 @@ Actualmente sigo formándome y esto es lo que quiero compartir contigo. Como pri
 
 
 ¡Gracias por leer!
+<hr>
 C.
 
 

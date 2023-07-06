@@ -35,6 +35,5 @@ Y esta es un poco mi experiencia, al final, seguir un poco la documentación, ca
 
 
 Gracias por leer,
-
-
+<hr>
 C.

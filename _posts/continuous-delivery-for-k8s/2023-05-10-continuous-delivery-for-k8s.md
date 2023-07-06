@@ -31,14 +31,15 @@ IX. Disposability. Maximize robustness with fast startup and graceful shutdown.
 X. Dev/prod parity. Keep development, staging and production as similar as possible.
 XI. Logs. Treat logs as events streams.
 XII. Admin processes. run admin/management tasks as one-off processes.
-
+<hr>
 The term Cloud-Native is also strongly related to container tech (such as Docker) because containers by design folows best practices from the 12-factors apps principles as they were designes qith Cloud-Native applications and clloud infrastructures in mind.
-
+<hr>
 You are only interested in having yours applications running, not where they run.
 
 
 
 ¡Gracias por leer!
+<hr>
 C.
 
 
