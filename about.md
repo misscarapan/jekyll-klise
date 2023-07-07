@@ -18,13 +18,8 @@ Ahora que el reto de crear la web ya lo conseguí. Mi visión de cada blog es co
 - Plataformas que me ayudan a estudiar.
 
 
-
-
-
-
-
 **Si me necesitas, estoy aquí ✨**
-
+ 
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
 
