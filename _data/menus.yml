@@ -1,9 +1,9 @@
-- title: Inicio
+- title: Home
   url: /
   external: false
 
 - title: Posts
-  url: /archive/
+  url: /posts/
   external: false
 
 - title: About
