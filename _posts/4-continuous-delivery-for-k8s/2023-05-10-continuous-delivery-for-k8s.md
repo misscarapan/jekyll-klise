@@ -7,7 +7,6 @@ description: Resumen
 image: ""
 ---
 
-<a 
 
 ¡Hola!
 
@@ -15,22 +14,24 @@ Estoy leyendo y aprendiendo cantidad de cosas con este libro de Mauricio Salatin
 
 En este blog dejaré mis apuntes de las prácticas y técnicas clave que voy descubriendo en el libro y empezar en el contexto de Kubernetes.
 
-Parte 1. CLoud-Native continuous delivery.
-"Clod-Native is structuring teams, culture and technology to utlize automation and architectures to manage complexity and unlock velocity."
+Parte 1. Cloud-Native continuous delivery.
+"Cloud-Native is structuring teams, culture and technology to utlize automation and architectures to manage complexity and unlock velocity."
 
-"12-factorss apps"
-I. Codebase. One codebase tracked in revision control, many deploys.
-II. Dependencies. Explicitly declare and isolate dependencies.
-III. Config. Store config in the enviroment.
-IV. Backing services. Treat backing services ass attached resosurces.
-V. Build, release, run. Strictly separate build and run stages.
-VI. Processes. Execute the app as one or more stateless processes.
-VII. Port binding. Export services via port binding.
-VIII. Concurrency. Scale out via the process model.
-IX. Disposability. Maximize robustness with fast startup and graceful shutdown.
-X. Dev/prod parity. Keep development, staging and production as similar as possible.
-XI. Logs. Treat logs as events streams.
-XII. Admin processes. run admin/management tasks as one-off processes.
+<h2> "12-factorss apps" </h2>
+<ol>
+<li>Codebase. One codebase tracked in revision control, many deploys.</li>
+<li>Dependencies. Explicitly declare and isolate dependencies.</li>
+<li>Config. Store config in the enviroment.</li>
+<li>Backing services. Treat backing services ass attached resosurces.</li>
+<li>Build, release, run. Strictly separate build and run stages.</li>
+<li>Processes. Execute the app as one or more stateless processes.</li>
+<li>Port binding. Export services via port binding.</li>
+<li>Concurrency. Scale out via the process model.</li>
+<li>Disposability. Maximize robustness with fast startup and graceful shutdown.</li>
+<li>Dev/prod parity. Keep development, staging and production as similar as possible.</li>
+<li>Logs. Treat logs as events streams.</li>
+<li>Admin processes. run admin/management tasks as one-off processes.</li>
+</ol>
 <hr>
 The term Cloud-Native is also strongly related to container tech (such as Docker) because containers by design folows best practices from the 12-factors apps principles as they were designes qith Cloud-Native applications and clloud infrastructures in mind.
 <hr>
@@ -39,7 +40,6 @@ You are only interested in having yours applications running, not where they run
 
 
 ¡Gracias por leer!
-<hr>
 C.
 
 
