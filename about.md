@@ -17,10 +17,10 @@ Mi visión acerca del proyecto de Carapan es mostrar y compartir mi progreso adq
 En el blog  <a href="https://misscarapan.dev/beginning-of-carapan//" target="_blank" rel="nofollow">"The beginning of Carapan"</a>  os pongo referencias al primer reto que era hace este proyecto. 
 
 Ahora que este reto ya lo conseguí. Mi visión de cada blog es compartir:
-- Cada tecnología que voy aprendiendo.
-- Apuntes de los libros que vaya leyendo.
-- Plataformas que me ayudan a estudiar.
-- Las skills que voy adquiriendo en los siguientes puntos:
+    - Cada tecnología que voy aprendiendo.
+    - Apuntes de los libros que vaya leyendo.
+    - Plataformas que me ayudan a estudiar.
+    - Las skills que voy adquiriendo en los siguientes puntos:
 <ol>
 <li> Programación/Desarrollo.
 <li> Sistemas operativos y bases de datos.
@@ -30,14 +30,13 @@ Ahora que este reto ya lo conseguí. Mi visión de cada blog es compartir:
 <li> Cloud.
 </ol>
 
-
+<hr>
 **Si me necesitas, estoy aquí ✨**
  
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
 
-
-
+<hr>
 ¡Gracias infinitas!
 <hr>
 C.
