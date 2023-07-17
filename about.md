@@ -21,12 +21,12 @@ Ahora que este reto ya lo conseguí. Mi visión de cada blog es compartir:
     - Apuntes de los libros que vaya leyendo.
     - Plataformas que me ayudan a estudiar.
     - Las skills que voy adquiriendo en los siguientes puntos:
-<li> Programación/Desarrollo.
-<li> Sistemas operativos y bases de datos.
-<li> Monitorización y observabilidad.
-<li> Automatización.
-<li>Contenedores y orquestación.
-<li> Cloud. 
+1. Programación/Desarrollo.
+2. Sistemas operativos y bases de datos.
+3. Monitorización y observabilidad.
+4. Automatización.
+5. Contenedores y orquestación.
+6. Cloud. 
 
 <hr>
 **Si me necesitas, estoy aquí ✨**
