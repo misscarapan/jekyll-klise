@@ -1,7 +1,7 @@
 ---
 title:  Mis skills en Desarrollo/Programación. 
-date: 2023-06-08 18:03:55 +07:00
-modified: 2023-06-08 18:03:55 +07:00
+date: 2023-07-17 18:03:55 +07:00
+modified: 2023-07-17 18:03:55 +07:00
 tags: [Training]
 description: Mis skills en programación.
 image: ""
