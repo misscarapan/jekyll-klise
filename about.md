@@ -12,7 +12,7 @@ Muchas gracias por pasarte por aquí y dedicar un poco de tu tiempo a conocerme.
 
 Te pongo un poco en contexto, me presento en el primer blog <a href="https://misscarapan.dev/who-is-carapan/" target="_blank" rel="nofollow">"Who is Carapan"</a>, pero aquí no te quiero marear con mi vida, mejor vamos a lo que hay en esta web. 
 
-Mi visión acerca del proyecto de Carapan es mostrar y compartir mi progreso adquiriendo las skills para poder llegar a tener una oportunidad, estar preparada y poder demostrar mi valía.
+Mi visión acerca del proyecto Carapan es mostrar y compartir mi progreso adquiriendo las skills para poder llegar a tener una oportunidad, estar preparada y poder demostrar mi valía.
 
 En el segundo blog  <a href="https://misscarapan.dev/beginning-of-carapan//" target="_blank" rel="nofollow">"The beginning of Carapan"</a>  os pongo referencias al primer reto que era hace este proyecto. 
 
@@ -37,5 +37,4 @@ Ahora que este reto ya lo conseguí. Mi visión de cada blog es compartir:
 
 <hr>
 ¡Gracias infinitas!
-<hr>
-C.
+    C.

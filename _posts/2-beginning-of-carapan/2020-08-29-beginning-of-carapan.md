@@ -2,12 +2,12 @@
 layout: post
 title:  "The beginning of Carapan"
 date:   2023-04-29 09:29:20 +0700
-categories: Personal
-tags: [Personal]
+categories: Training
+tags: [Training]
 ---
 ¡Hola!
 
-Quiero compartir algunos enlaces que me fueron de gran ayuda durante el proceso de despliegue de mi sitio web. 
+Este blog quería compartir algunos enlaces que me fueron de gran ayuda durante el proceso de despliegue de este sitio web. 
 
  Jekyll - esta web personal está configurada en este entorno de desarrollo. Aquí dejo el enlace con el paso a paso.
 <a href="https://jekyllrb.com/docs/step-by-step/01-setup/" target="_blank" rel="nofollow">Docs Jekyll</a>
