@@ -9,6 +9,10 @@ tags: [Training]
 
 Este blog quería compartir algunos enlaces que me fueron de gran ayuda durante el proceso de despliegue de este sitio web. 
 
+Para entrar un poco en contexto, esta web es mi primer proyecto con algo de conocimiento. En diciembre de 2022, saqué mi primera certificación como Solutions Architect de AWS y tenía muchas ganas de hacer cositas. Así que aquí estoy, dando forma a una web estática para ver como os cuento mi proceso.
+
+Sin dar mucha chapa, desplegar todo no fue muy difícil, con la documentación, paciencia y lo que había estudiado, al final esto no es lo más complejo que puedes hacer en la nube, pero tuve probleminas, así que aquí os dejo un poco los enlaces que me ayudaron.
+
  Jekyll - esta web personal está configurada en este entorno de desarrollo. Aquí dejo el enlace con el paso a paso.
 <a href="https://jekyllrb.com/docs/step-by-step/01-setup/" target="_blank" rel="nofollow">Docs Jekyll</a>
 

@@ -21,13 +21,35 @@ Ahora que este reto ya lo conseguí. Mi visión de cada blog es compartir:
 - Apuntes de los libros que vaya leyendo.
 - Plataformas que me ayudan a estudiar.
 - Las skills que voy adquiriendo en los siguientes puntos:
-
 1. Programación/Desarrollo.
+    - Shell/Bash
+    - Linux
+    - Phyton
 2. Sistemas operativos y bases de datos.
+    - Windows Server
+    - Active Directory
+    - SQL 
+    - NoSQL
 3. Monitorización y observabilidad.
+    - Kafka
+    - Kibana
+    - Grafana
+    - Prometheus
 4. Automatización.
+    - Ansible
+    - Terraform
+    - CloudFormation
 5. Contenedores y orquestación.
+    - Docker 
+    - Kubernetes
 6. Cloud. 
+    - AWS
+    - Azure
+    - GCP
+
+Para esto, iré creando y añandiendo contenido a los blogs "Mis skills" para ir compartiendo un poco mi progreso en cada punto de este desafío.
+¿Me acompañas?
+
 
 <hr>
 **Si me necesitas, estoy aquí ✨**
