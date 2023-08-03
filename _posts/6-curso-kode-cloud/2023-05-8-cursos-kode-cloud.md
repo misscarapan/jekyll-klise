@@ -1,5 +1,5 @@
 ---
-title:  Plataforma Kode Cloud. 
+title: Mis skills en AWS. 
 date: 2023-07-03 18:03:55 +07:00
 modified: 2023-07-03 18:03:55 +07:00
 tags: [Training]
@@ -8,11 +8,12 @@ image: ""
 ---
 
 
-¡Hola!
+¡Hola! Este post va dedicado a la parte de Solutions Architect de Aws. Para empezar que pena no tener registrado todo lo que viví en el proceso que empecé con el curso ni tampoco hasta que aprobé la certificación.
 
-En este post quiero dejar todo los cursos que voy haciendo en la plataforma Kode Cloud. 
+Aquí dejaré todo lo que aprendí y lo que sigo aprendiendo. Sin mas preámbulos, empezamos:
 
-<a href="https://kodekloud.com/courses/docker-for-the-absolute-beginner/" target="_blank" rel="nofollow">Curso gratuito Docker</a>
+<a href=https://lucid.app/lucidchart/3272773d-cc55-4742-a91b-e21610fbbcd0/view?page=0_0#" target="_blank" rel="nofollow">AWS networking</a>
+Este esquema visualiza bastante bien los conceptos. 
 
 
 ¡Gracias por leer!
