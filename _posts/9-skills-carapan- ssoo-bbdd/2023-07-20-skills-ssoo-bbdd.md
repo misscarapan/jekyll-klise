@@ -12,7 +12,7 @@ image: ""
 
 En este blog quería dejar lo que vaya encontrando de Windows server, Active Directory, SQL y NoSQL.
 
-De momento para empezar me voy a centrar en MongoDB,  <a href=https://learn.mongodb.com/ target="_blank" rel="nofollow"> Mongo university</a>
+De momento para empezar me voy a centrar en MongoDB, <a href="https://learn.mongodb.com/" target="_blank" rel="nofollow">Mongo</a> University
 
 
 ¡Gracias por leer!
