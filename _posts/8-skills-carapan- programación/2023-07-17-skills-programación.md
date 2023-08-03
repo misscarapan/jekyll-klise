@@ -1,5 +1,5 @@
 ---
-title:  Mis skills en Bash/Shell. 
+title:  Mis skills en Programación. 
 date: 2023-07-17 18:03:55 +07:00
 modified: 2023-07-17 18:03:55 +07:00
 tags: [Training]

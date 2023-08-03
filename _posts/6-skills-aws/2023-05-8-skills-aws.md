@@ -12,8 +12,10 @@ image: ""
 
 Aquí dejaré todo lo que aprendí y lo que sigo aprendiendo. Sin mas preámbulos, empezamos:
 
-<a href=https://lucid.app/lucidchart/3272773d-cc55-4742-a91b-e21610fbbcd0/view?page=0_0#" target="_blank" rel="nofollow">AWS networking</a>
+<a href="https://lucid.app/lucidchart/3272773d-cc55-4742-a91b-e21610fbbcd0/view?page=0_0#" target="_blank" rel="nofollow">AWS networking</a>
 Este esquema visualiza bastante bien los conceptos. 
+
+
 
 
 ¡Gracias por leer!
