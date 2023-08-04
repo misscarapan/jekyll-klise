@@ -1,5 +1,5 @@
 ---
-title:  Cloud Computing. 
+title:  Carapan in the Cloud. 
 date: 2023-05-08 18:03:55 +07:00
 modified: 2023-05-08 18:03:55 +07:00
 tags: [Training]
@@ -20,10 +20,14 @@ Está de Google para conectar con el concepto Cloud de 40H muy fácil y llevader
 ahora estará en Skillshops que trasladaron los cursos.
 <a href="https://skillshop.exceedlms.com/student/collection/786255-cloud-computing?sid=fcc0b084-d777-4986-b375-9dd540da1d93&sid_i=1" target="_blank" rel="nofollow">Dejo por aquí el enlace a la nueva plataforma.</a> 
 
-Dejo también este enlace de todas las tecnologías de Cloud Native que personalmente me ayuda a conocer y ubicar todo.
+Por otro aquí están todas las tecnologías de Cloud Native que personalmente me ayuda a conocer y ubicar todo.
 <a href="https://landscape.cncf.io/" target="_blank" rel="nofollow">CNCF Cloud Native Interactive Landscape</a> 
 
+Y para aterrizar en DeVops, SRE, Platform engineering y demás conceptos que aunque no estoy ahí, en ratos libres si me gusta leer acerca de como avanza todo.
+<a href="https://stackoverflow.blog/2023/03/20/who-builds-it-and-who-runs-it-sre-team-topologies/" target="_blank" rel="nofollow">SRE team topologies</a> 
+<a href="https://stackoverflow.blog/2023/07/26/platform-engineering-is-just-devops-with-a-product-mindset/" target="_blank" rel="nofollow">Platform engineering</a> 
 
+De momento esto es lo que llevo leído e interiorizado. Iré poco a poco añadiendo más cosas que vaya encontrando por ahí y poder reunir todo aquí.
 
 ¡Gracias por leer!
 <hr>
