@@ -1,7 +1,7 @@
 ---
-title:  Mis skills en monitorización y observabilidad. 
-date: 2023-07-20 18:03:55 +07:00
-modified: 2023-07-17 18:03:55 +07:00
+title:  Mis skills en automatización. 
+date: 2023-07-25 18:03:55 +07:00
+modified: 2023-07-25 18:03:55 +07:00
 tags: [Training]
 description: Mis skills en programación.
 image: ""
@@ -10,10 +10,11 @@ image: ""
 
 ¡Hola!
 
-Este blog me emociona mucho, igual es a lo que más le quiero dedicar y donde quiero dedicarle tiempo y cariño para entenderlo bien. 
+Este es otro blog que me emociona mucho junto al de observabilidad, así que vamos a ello. 
 
-Pero lo importante son las tecnologías, no yo jajaja así que vamos a centrarnos en Kibana, Grafana, NewRelic y Prometheus.
-Ya empecé para familiarizarme un poco con el kube-prometheus-stack. De aquí Prometheus para hacer queries y ver las métricas y grafana para la visualización y el alert manager para el trackeo de errores. Lo estoy haciendo con k8s in docker (kind) a través de un helm chart bastante sencillo y solo para enrredar y ganar conocimiento.
+Hasta dónde mis ojos ven, se centra en Ansible y Terraform. Conozco CloudFormation de AWS pero no es suficiente. En el que me voy a centrar es Terraform a fuego y respecto a Ansible, lo veré en la parte inicial del Bootcamp, así que lo dejaré a un lado hasta ese momento.
+
+
 
 WIP.
 

@@ -1,7 +1,7 @@
 ---
 title:  Mis skills en monitorización y observabilidad. 
-date: 2023-07-20 18:03:55 +07:00
-modified: 2023-07-17 18:03:55 +07:00
+date: 2023-07-25 18:03:55 +07:00
+modified: 2023-07-25 18:03:55 +07:00
 tags: [Training]
 description: Mis skills en programación.
 image: ""
